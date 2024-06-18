@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1490112218 source:c:\users\windows\desktop\final program\tp-final (grupo 3)\pila.c
+	"pila.h"
+
+1490112218 c:\users\windows\desktop\final program\tp-final (grupo 3)\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718484473 source:c:\users\windows\desktop\final program\tp-final (grupo 3)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"windows.h"
+	<mmsystem.h>
+
+1718389149 source:c:\users\windows\desktop\final program\tp-final (grupo 3)\ordenamiento.c
+	"ordenamiento.h"
+
+1717096062 c:\users\windows\desktop\final program\tp-final (grupo 3)\ordenamiento.h
+
+1718484918 source:c:\users\windows\desktop\final program\tp-final (grupo 3)\modificaciones.c
+	"modificaciones.h"
+	"pila.h"
+	<stdio.h>
+	<string.h>
+
+1718409630 c:\users\windows\desktop\final program\tp-final (grupo 3)\modificaciones.h
+
+1718412169 source:c:\users\windows\desktop\final program\tp-final (grupo 3)\venta.c
+	"venta.h"
+	<stdio.h>
+
+1718328045 c:\users\windows\desktop\final program\tp-final (grupo 3)\venta.h
+	"pila.h"
+
+1718415916 source:c:\users\windows\desktop\final program\tp-final (grupo 3)\muestra.c
+	"muestra.h"
+	<stdio.h>
+
+1718328223 c:\users\windows\desktop\final program\tp-final (grupo 3)\muestra.h
+
+1718416007 source:c:\users\windows\desktop\final program\tp-final (grupo 3)\busqueda.c
+	"busqueda.h"
+	<stdio.h>
+
+1717108414 c:\users\windows\desktop\final program\tp-final (grupo 3)\busqueda.h
+
+1718484714 source:c:\users\windows\desktop\final program\tp-final (grupo 3)\carga.c
+	"carga.h"
+	<stdio.h>
+
+1718389499 c:\users\windows\desktop\final program\tp-final (grupo 3)\carga.h
+
+1718671258 source:c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\busqueda.c
+	"busqueda.h"
+	<stdio.h>
+
+1718563175 c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\busqueda.h
+
+1718673945 source:c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\carga.c
+	"carga.h"
+	<stdio.h>
+
+1718494448 c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\carga.h
+
+1718566791 source:c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\muestra.c
+	"muestra.h"
+	<stdio.h>
+
+1718328223 c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\muestra.h
+
+1718389149 source:c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\ordenamiento.c
+	"ordenamiento.h"
+
+1717096062 c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\ordenamiento.h
+
+1490112218 source:c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\pila.c
+	"pila.h"
+
+1490112218 c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718570209 source:c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\venta.c
+	"venta.h"
+	<stdio.h>
+
+1718328045 c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\venta.h
+	"pila.h"
+
+1718671313 source:c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\modificaciones.c
+	"modificaciones.h"
+	"pila.h"
+	<stdio.h>
+	<string.h>
+
+1718409630 c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\modificaciones.h
+
+1718673388 source:c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"windows.h"
+	<mmsystem.h>
+
+1718671200 source:c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+
+1718565196 c:\users\windows\desktop\final program - copia\tp-final (grupo 3)\menu.h
+
+1718671258 source:c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\busqueda.c
+	"busqueda.h"
+	<stdio.h>
+
+1718563175 c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\busqueda.h
+
+1718673945 source:c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\carga.c
+	"carga.h"
+	<stdio.h>
+
+1718494448 c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\carga.h
+
+1718674247 source:c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"windows.h"
+	<mmsystem.h>
+
+1490112218 c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718674257 source:c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+
+1718565196 c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\menu.h
+
+1718671313 source:c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\modificaciones.c
+	"modificaciones.h"
+	"pila.h"
+	<stdio.h>
+	<string.h>
+
+1718409630 c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\modificaciones.h
+
+1718566791 source:c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\muestra.c
+	"muestra.h"
+	<stdio.h>
+
+1718328223 c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\muestra.h
+
+1718389149 source:c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\ordenamiento.c
+	"ordenamiento.h"
+
+1717096062 c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\ordenamiento.h
+
+1490112218 source:c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\pila.c
+	"pila.h"
+
+1718570209 source:c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\venta.c
+	"venta.h"
+	<stdio.h>
+
+1718328045 c:\users\mateito\desktop\final program -grupo 3\tp-final (grupo 3)\venta.h
+	"pila.h"
+

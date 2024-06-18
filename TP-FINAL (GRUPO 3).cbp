@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TP-FINAL (GRUPO 3)" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TP-FINAL (GRUPO 3)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="libwinmm.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TP-FINAL (GRUPO 3)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="busqueda.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="busqueda.h" />
+		<Unit filename="carga.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="carga.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="modificaciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modificaciones.h" />
+		<Unit filename="muestra.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="muestra.h" />
+		<Unit filename="ordenamiento.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ordenamiento.h" />
+		<Unit filename="pila.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pila.h" />
+		<Unit filename="venta.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="venta.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
